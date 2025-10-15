@@ -160,6 +160,7 @@ export default App;
 
 ## OUTPUT
 <img width="281" height="376" alt="Screenshot 2025-10-15 023514" src="https://github.com/user-attachments/assets/af26043d-2e1a-4371-85ba-a1a50c3d156b" />
+
 <img width="252" height="346" alt="Screenshot 2025-10-15 023524" src="https://github.com/user-attachments/assets/db9a5cf3-2f87-4c48-9c0b-f842e07bf6df" />
 
 
